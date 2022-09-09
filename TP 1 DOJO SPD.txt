@@ -1,0 +1,18 @@
+Proyecto: Ingresar mediante un pulsador un input digital. Mientras se presione el pulsador, se encenderá la bombilla 2 veces . Caso contrario, titilará un led 2 veces. 
+Integrantes del grupo: Tomás Santoro, Carolina Santos, Agustin Sande, Gonzalo Vera, Juan Clemente, Alba Rotela, Anioska Emperatriz Reyes, Vanesa Edith Sinopoli.
+
+
+
+
+
+TINKERCAD:
+https://www.tinkercad.com/things/h3kS7ayCfUk-pulldown-1g/editel?sharecode=M0JQLqcR46aoxRH42PDWDF1dZRHcfXuRvwVPCRjjt1E
+
+
+GDB: https://onlinegdb.com/sPoopr4f3
+
+
+LINK DEL VIDEO:
+
+https://drive.google.com/file/d/1udx-m6sSf79M9q1BiZdF466RAeHVS7u6/view?usp=sharing
+
